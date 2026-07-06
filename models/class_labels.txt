@@ -1,0 +1,6 @@
+0:automatic_submachine
+1:handgun
+2:other
+3:other_impulse
+4:rifle
+5:shotgun
